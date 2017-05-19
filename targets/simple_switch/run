@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo ./simple_switch vp4.json  -i 1@peth1 -i 2@peth2 -L off -- --controller-ip=101.6.30.157 --controller-port=40123
